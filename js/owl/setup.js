@@ -31,9 +31,9 @@ $('.owl-carousel').owlCarousel({
 "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
 "Com a morte do pai, irmãos com poderes extraordinários se reencontram e descobrem surpreendentes segredos de família – além de uma ameaça iminente à humanidade."];
 
-  const imgFile = ["/img/capas/capa-house.jpg","./img/capas/capa-star.jpg", "/img/capas/capa-pok.jpg",
-"/img/capas/capa-cap.jpg", "/img/capas/capa-hobb.jpg", "/img/capas/capa-break.jpg", "/img/capas/capa-drh.jpg",
-"/img/capas/capa-sobr.jpg", "/img/capas/capa-smal.jpg", "/img/capas/capa-ving.jpg", "/img/capas/capa-umb.jpg"]
+  const imgFile = ["/img/capa-house.jpg","./img/capa-star.jpg", "/img/capa-pok.jpg",
+"/img/capa-cap.jpg", "/img/capa-hobb.jpg", "/img/capa-break.jpg", "/img/capa-drh.jpg",
+"/img/capa-sobr.jpg", "/img/capa-smal.jpg", "/img/capa-ving.jpg", "/img/capa-umb.jpg"]
 
 const boxes = document.querySelectorAll('.box-filme');
 
