@@ -1,2 +1,3 @@
 # Netflix-Cloned
-Clone do Netflix
+Clone do Netflix.
+Baseado no fork original https://github.com/felipeAguiarCode/netflix-clone.
